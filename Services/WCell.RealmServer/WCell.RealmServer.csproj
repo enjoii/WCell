@@ -190,6 +190,7 @@
     <Compile Include="Achievement\AchievementRecord.cs" />
     <Compile Include="Achievement\AchievementProgressRecord.cs" />
     <Compile Include="Achievement\AchievementReward.cs" />
+    <Compile Include="AI\AIEventMap.cs" />
     <Compile Include="ArenaTeams\ArenaTeam.cs" />
     <Compile Include="ArenaTeams\ArenaTeamMember.cs" />
     <Compile Include="ArenaTeams\ArenaTeamStats.cs" />
